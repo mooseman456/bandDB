@@ -37,7 +37,7 @@ function importDataToDB()
   foreach($members as $value)
   {
       echo ($members[$i]['name']."<br>");
-      mysql_query("INSERT INTO players (name, birthDate, deathDate, city, state, country)\""
+      mysql_query("INSERT INTO players (name, birthDate, deathDate, city, state, country) VALUES (\""
       .$members[$i]['name']."\",\""
       .$members[$i]['birthDate']."\",\""
       .$members[$i]['deathDate']."\",\""
