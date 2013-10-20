@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS bandDB;
-CREATE DATABASE bandDB;
-USE bandDB;
+DROP DATABASE IF EXISTS assignment2;
+CREATE DATABASE assignment2;
+USE assignment2;
 
 create table bands (
    name varchar(50),
