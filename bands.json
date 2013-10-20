@@ -1,26 +1,28 @@
-[
-{ "Band":"Muse", "startDate":"1994", "endDate":null, "Vocals":"Matthew Bellamy", "Guitar": "Matthew Bellamy", "Keyboard":"Matthew Bellamy", "Synthesizer":"Matthew Bellamy", "Bass":"Christopher Wolstenholme", "Drums":"Dominic Howard", "Percussion":"Dominic Howard", "Backing Vocals": null, "Rhythm Guitar": null}
+{
+"bands":[
+{ "Band":"Muse", "startDate":"1994", "endDate":null, "Vocals":"Matthew Bellamy", "Guitar": "Matthew Bellamy", "Keyboard":"Matthew Bellamy", "Synthesizer":"Matthew Bellamy", "Bass":"Christopher Wolstenholme", "Drums":"Dominic Howard", "Percussion":"Dominic Howard", "Backing Vocals": null, "Rhythm Guitar": null},
 
-{ "Band":"The Killers", "startDate":"2001", "endDate":"2002", "Vocals":"Brandon Flowers", "Guitar": "Dave Keunig", "Keyboard":"Dave Keunig", "Synthesizer":"Brandon Flowers", "Bass":"Dell Neal", "Drums":"Matt Norcross", "Percussion":"Brian Havens", "Backing Vocals": null, "Rhythm Guitar": null}
+{ "Band":"The Killers", "startDate":"2001", "endDate":"2002", "Vocals":"Brandon Flowers", "Guitar": "Dave Keunig", "Keyboard":"Dave Keunig", "Synthesizer":"Brandon Flowers", "Bass":"Dell Neal", "Drums":"Matt Norcross", "Percussion":"Brian Havens", "Backing Vocals": null, "Rhythm Guitar": null},
 
-{ "Band":"The Killers", "startDate":"2002", "endDate":null, "Vocals":"Brandon Flowers", "Guitar": "Dave Keunig", "Keyboard":"Dave Keunig", "Synthesizer":"Brandon Flowers", "Bass":"Mark Stoermer", "Drums":"Ronnie Vannuci Jr.", "Percussion":"Ronnie Vannuci Jr.", "Backing Vocals": null, "Rhythm Guitar": null}
+{ "Band":"The Killers", "startDate":"2002", "endDate":null, "Vocals":"Brandon Flowers", "Guitar": "Dave Keunig", "Keyboard":"Dave Keunig", "Synthesizer":"Brandon Flowers", "Bass":"Mark Stoermer", "Drums":"Ronnie Vannuci Jr.", "Percussion":"Ronnie Vannuci Jr.", "Backing Vocals": null, "Rhythm Guitar": null},
 
-{ "Band":"Creedence Clearwater Revival", "startDate":"1967", "endDate":"1971", "Vocals":"John Fogerty", "Guitar": "John Fogerty", "Keyboard":"John Fogerty", "Synthesizer": null, "Bass":"Stu Cook", "Drums":"Doug Clifford", "Percussion":"Doug Clifford", "Backing Vocals": "Tom Fogerty", "Rhythm Guitar": "Tom Fogerty"}
+{ "Band":"Creedence Clearwater Revival", "startDate":"1967", "endDate":"1971", "Vocals":"John Fogerty", "Guitar": "John Fogerty", "Keyboard":"John Fogerty", "Synthesizer": null, "Bass":"Stu Cook", "Drums":"Doug Clifford", "Percussion":"Doug Clifford", "Backing Vocals": "Tom Fogerty", "Rhythm Guitar": "Tom Fogerty"},
 
-{ "Band":"Creedence Clearwater Revival", "startDate":"1971", "endDate":"1972", "Vocals":"John Fogerty", "Guitar": "John Fogerty", "Keyboard":"John Fogerty", "Synthesizer": null, "Bass":"Stu Cook", "Drums":"Doug Clifford", "Percussion":"Doug Clifford", "Backing Vocals": "Stu Cook", "Rhythm Guitar": "Stu Cook"}
+{ "Band":"Creedence Clearwater Revival", "startDate":"1971", "endDate":"1972", "Vocals":"John Fogerty", "Guitar": "John Fogerty", "Keyboard":"John Fogerty", "Synthesizer": null, "Bass":"Stu Cook", "Drums":"Doug Clifford", "Percussion":"Doug Clifford", "Backing Vocals": "Stu Cook", "Rhythm Guitar": "Stu Cook"},
 
-{ "Band":"ACDC", "startDate":"1973", "endDate":"1975", "Vocals":"Bon Scott", "Guitar": "Angus Young", "Keyboard": null, "Synthesizer": null, "Bass": null, "Drums": null, "Percussion":null, "Backing Vocals": "Malcolm Young", "Rhythm Guitar": "Malcolm Young"}
+{ "Band":"ACDC", "startDate":"1973", "endDate":"1975", "Vocals":"Bon Scott", "Guitar": "Angus Young", "Keyboard": null, "Synthesizer": null, "Bass": null, "Drums": null, "Percussion":null, "Backing Vocals": "Malcolm Young", "Rhythm Guitar": "Malcolm Young"},
 
-{ "Band":"ACDC", "startDate":"1975", "endDate":"1977", "Vocals":"Bon Scott", "Guitar": "Angus Young", "Keyboard": null, "Synthesizer": null, "Bass": "Mark Evans", "Drums": "Phil Rudd", "Percussion":null, "Backing Vocals": "Malcolm Young", "Rhythm Guitar": "Malcolm Young"}
+{ "Band":"ACDC", "startDate":"1975", "endDate":"1977", "Vocals":"Bon Scott", "Guitar": "Angus Young", "Keyboard": null, "Synthesizer": null, "Bass": "Mark Evans", "Drums": "Phil Rudd", "Percussion":null, "Backing Vocals": "Malcolm Young", "Rhythm Guitar": "Malcolm Young"},
 
-{ "Band":"ACDC", "startDate":"1977", "endDate":"1980", "Vocals":"Bon Scott", "Guitar": "Angus Young", "Keyboard": null, "Synthesizer": null, "Bass": "Cliff Williams", "Drums": "Phil Rudd", "Percussion":null, "Backing Vocals": "Malcolm Young", "Rhythm Guitar": "Malcolm Young"}
+{ "Band":"ACDC", "startDate":"1977", "endDate":"1980", "Vocals":"Bon Scott", "Guitar": "Angus Young", "Keyboard": null, "Synthesizer": null, "Bass": "Cliff Williams", "Drums": "Phil Rudd", "Percussion":null, "Backing Vocals": "Malcolm Young", "Rhythm Guitar": "Malcolm Young"},
 
-{ "Band":"ACDC", "startDate":"1980", "endDate":"1983", "Vocals":"Brian Johnson", "Guitar": "Angus Young", "Keyboard": null, "Synthesizer": null, "Bass": "Cliff Williams", "Drums": "Phil Rudd", "Percussion":null, "Backing Vocals": "Malcolm Young", "Rhythm Guitar": "Malcolm Young"}
+{ "Band":"ACDC", "startDate":"1980", "endDate":"1983", "Vocals":"Brian Johnson", "Guitar": "Angus Young", "Keyboard": null, "Synthesizer": null, "Bass": "Cliff Williams", "Drums": "Phil Rudd", "Percussion":null, "Backing Vocals": "Malcolm Young", "Rhythm Guitar": "Malcolm Young"},
 
-{ "Band":"ACDC", "startDate":"1983", "endDate":"1989", "Vocals":"Brian Johnson", "Guitar": "Angus Young", "Keyboard": null, "Synthesizer": null, "Bass": "Cliff Williams", "Drums": "Simon Wright", "Percussion":null, "Backing Vocals": "Malcolm Young", "Rhythm Guitar": "Malcolm Young"}
+{ "Band":"ACDC", "startDate":"1983", "endDate":"1989", "Vocals":"Brian Johnson", "Guitar": "Angus Young", "Keyboard": null, "Synthesizer": null, "Bass": "Cliff Williams", "Drums": "Simon Wright", "Percussion":null, "Backing Vocals": "Malcolm Young", "Rhythm Guitar": "Malcolm Young"},
 
-{ "Band":"ACDC", "startDate":"1989", "endDate":"1994", "Vocals":"Brian Johnson", "Guitar": "Angus Young", "Keyboard": null, "Synthesizer": null, "Bass": "Cliff Williams", "Drums": "Chris Slade", "Percussion":null, "Backing Vocals": "Malcolm Young", "Rhythm Guitar": "Malcolm Young"}
+{ "Band":"ACDC", "startDate":"1989", "endDate":"1994", "Vocals":"Brian Johnson", "Guitar": "Angus Young", "Keyboard": null, "Synthesizer": null, "Bass": "Cliff Williams", "Drums": "Chris Slade", "Percussion":null, "Backing Vocals": "Malcolm Young", "Rhythm Guitar": "Malcolm Young"},
 
 { "Band":"ACDC", "startDate":"1994", "endDate":null, "Vocals":"Brian Johnson", "Guitar": "Angus Young", "Keyboard": null, "Synthesizer": null, "Bass": "Cliff Williams", "Drums": "Phil Rudd", "Percussion":null, "Backing Vocals": "Malcolm Young", "Rhythm Guitar": "Malcolm Young"}
 
 ]
+}

@@ -1,4 +1,5 @@
-[
+{
+ [
 { "Band":"Muse", "startDate":"1994", "endDate":null, "Vocals":"Matthew Bellamy", "Guitar": "Matthew Bellamy", "Keyboard":"Matthew Bellamy", "Synthesizer":"Matthew Bellamy", "Bass":"Christopher Wolstenholme", "Drums":"Dominic Howard", "Percussion":"Dominic Howard", "Backing Vocals": null, "Rhythm Guitar": null}
 
 { "Band":"The Killers", "startDate":"2001", "endDate":"2002", "Vocals":"Brandon Flowers", "Guitar": "Dave Keunig", "Keyboard":"Dave Keunig", "Synthesizer":"Brandon Flowers", "Bass":"Dell Neal", "Drums":"Matt Norcross", "Percussion":"Brian Havens", "Backing Vocals": null, "Rhythm Guitar": null}
@@ -22,3 +23,5 @@
 { "Band":"ACDC", "startDate":"1989", "endDate":"1994", "Vocals":"Brian Johnson", "Guitar": "Angus Young", "Keyboard": null, "Synthesizer": null, "Bass": "Cliff Williams", "Drums": "Chris Slade", "Percussion":null, "Backing Vocals": "Malcolm Young", "Rhythm Guitar": "Malcolm Young"}
 
 { "Band":"ACDC", "startDate":"1994", "endDate":null, "Vocals":"Brian Johnson", "Guitar": "Angus Young", "Keyboard": null, "Synthesizer": null, "Bass": "Cliff Williams", "Drums": "Phil Rudd", "Percussion":null, "Backing Vocals": "Malcolm Young", "Rhythm Guitar": "Malcolm Young"}
+
+]
