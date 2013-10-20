@@ -10,6 +10,8 @@ function importDataToDB()
   $json = file_get_contents($json_string);
   $result = json_decode($json, TRUE);
   $i = 0;
+  echo($result['bands'][0]['Band']."<br>");
+  echo($result['members'][0]['name']."<br>");
   $bands = $result['bands'];
   foreach($bands as $value) 
   {
@@ -29,7 +31,22 @@ function importDataToDB()
 	  
 	  $i = $i + 1;
   }
-  
+  $i = 0;
+  echo($result['members'][0]['name']);
+  $members = $result['members'];
+  foreach($members as $value)
+  {
+      echo ($members[$i]['name']."<br>");
+      mysql_query("INSERT INTO players (name, birthDate, deathDate, city, state, country)\""
+      .$members[$i]['name']."\",\""
+      .$members[$i]['birthDate']."\",\""
+      .$members[$i]['deathDate']."\",\""
+      .$members[$i]['city']."\",\""
+      .$members[$i]['state']."\",\""
+      .$members[$i]['country']."\");");
+      
+      $i = $i + 1;
+  }
   
   echo("HELLO!<br>");
   mysql_close($con);

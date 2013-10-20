@@ -1,26 +1,45 @@
 {
-"members":
-[
+"members":[
    {"name": "Matthew Bellamy", "birthDate": "6/09/1978", "deathDate": null, "city": "Cambridge", "state": null, "country": "England"},
-   {"name": "Christopher Wolstenholme", "birthDate": "12/02/1978, "deathDate": null, "city": "Rotherham", "state": "Yorkshire", "country": "England"},
+   
+   {"name": "Christopher Wolstenholme", "birthDate": "12/02/1978", "deathDate": null, "city": "Rotherham", "state": "Yorkshire", "country": "England"},
+   
    {"name": "Dominic Howard", "birthDate": "12/07/1977", "deathDate": null, "city": "Stockport", "state": null, "country": "England"},
-   {"name": "Brandon Flowers", "birthDate": "6/21/1981, "deathDate": null, "city": "Henderson", "state": "Nevada", "country": "United States"},
+   
+   {"name": "Brandon Flowers", "birthDate": "6/21/1981", "deathDate": null, "city": "Henderson", "state": "Nevada", "country": "United States"},
+   
    {"name": "Dave Keunig", "birthDate": "3/28/1976", "deathDate": null, "city": "Pella", "state": "Iowa", "country": "United States"},
+   
    {"name": "Mark Stoermer", "birthDate": "6/28/1977", "deathDate": null, "city": "Las Vegas", "state": "Nevada", "country": "United States"},
+   
    {"name": "Ronnie Vannucci Jr.", "birthDate": "2/15/1976", "deathDate": null, "city": "Las Vegas", "state": "Nevada", "country": "United States"},
+   
    {"name": "John Fogerty", "birthDate": "5/28/1945", "deathDate": null, "city": "Berkeley", "state": "California", "country": "United States"},
+   
    {"name": "Tom Fogerty", "birthDate": "11/09/1941", "deathDate": "9/06/1990", "city": "Berkeley", "state": "California", "country": "United States"},
+   
    {"name": "Stu Cook", "birthDate": "4/25/1945", "deathDate": null, "city": "Unknown", "state": null, "country": null},
+   
    {"name": "Ronnie Vannucci Jr.", "birthDate": "2/15/1976", "deathDate": null, "city": "Las Vegas", "state": "Nevada", "country": "United States"},
+   
    {"name": "Doug Clifford", "birthDate": "4/24/1945", "deathDate": null, "city": "Palo Alto", "state": "California", "country": "United States"},
+   
    {"name": "Angus Young", "birthDate": "3/31/1955", "deathDate": null, "city": "Glasgow", "state": "Scotland", "country": "United Kingdom"},
+   
    {"name": "Malcolm Young", "birthDate": "1/06/1953", "deathDate": null, "city": "Glasgow", "state": "Scotland", "country": "United Kingdom"},
+   
    {"name": "Phil Rudd", "birthDate": "5/19/1954", "deathDate": null, "city": "Melbourne", "state": "Victoria", "country": "Australia"},
+   
    {"name": "Cliff Williams", "birthDate": "12/14/1949", "deathDate": null, "city": "Romford", "state": "Essex", "country": "England"},
+   
    {"name": "Brian Johnson", "birthDate": "10/05/1947", "deathDate": null, "city": "Dunston", "state": "Gateshead", "country": "England"},
+   
    {"name": "Bon Scott", "birthDate": "7/09/1946", "deathDate": "2/19/1980", "city": "Angus", "state": "Scotland", "country": "United Kingdom"},
+   
    {"name": "Mark Evans", "birthDate": "3/02/1956", "deathDate": null, "city": "Melbourne", "state": "Victoria", "country": "Australia"},
+   
    {"name": "Simon Wright", "birthDate": "6/19/1963", "deathDate": null, "city": "Oldham", "state": "Lancashire", "country": "England"},
+   
    {"name": "Chris Slade", "birthDate": "10/30/1946", "deathDate": null, "city": "Pontypridd", "state": "Glamorgan", "country": "Wales"}
 ]
 }
